@@ -1,4 +1,4 @@
-# asymptotic-CBs-CPRF
+# Asymptotic-CBs-for-CPRF
 This repositary contains simulations of asymptotic confidence bands for centered purely random forests used in my PhD thesis.
 ## Structure
 - `src/forest.py` contains the source code for the random forests and regression trees
