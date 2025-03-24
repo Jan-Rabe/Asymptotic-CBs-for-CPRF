@@ -1,0 +1,169 @@
+Simulation results of bootstrap confidence bands
+
+
+Results  at Thu Jan 30 00:26:53 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Uni
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: norm
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [932 976 996], percentage: [0.932 0.976 0.996]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.08974842 1.21044896 1.45985653]
+
+
+Results  at Thu Jan 30 05:30:06 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Ehr
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: norm
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [939 976 993], percentage: [0.939 0.976 0.993]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.11819023 1.24041639 1.50420974]
+
+
+Results  at Tue Feb  4 16:23:46 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Uni
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: uniform
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [948 981 998], percentage: [0.948 0.981 0.998]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.0047789  1.10218948 1.28415704]
+
+
+Results  at Fri Feb  7 23:52:27 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Ehr
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: uniform
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [941 980 998], percentage: [0.941 0.98  0.998]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.03962387 1.14030946 1.34476493]
+
+
+Results  at Sat Feb  8 03:44:50 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Uni
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [933 973 996], percentage: [0.933 0.973 0.996]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.29480079 1.4921553  1.92651988]
+
+
+Results  at Sat Feb  8 08:33:39 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Ehr
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [929 971 996], percentage: [0.929 0.971 0.996]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.32215546 1.52301247 1.95773658]
+
+
+Results  at Sat Feb  8 16:36:02 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Uni
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [928 966 994], percentage: [0.928 0.966 0.994]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.19411823 1.35822018 1.69548917]
+
+
+Results  at Sat Feb  8 23:35:41 2025
+for Random Seed = 123456
+and Regression model with:
+p = 2 and m = m_p2_01
+RF type:Ehr
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Number: [932 966 990], percentage: [0.932 0.966 0.99 ]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+[1.22144738 1.38307422 1.75157671]

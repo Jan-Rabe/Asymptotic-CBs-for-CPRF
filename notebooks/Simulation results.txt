@@ -1,0 +1,1292 @@
+Simulation results of asymptotic confidence bands
+
+
+Results  at Mon Jan 27 19:11:46 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 0.75
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [656. 782. 941.], percentage: [0.656 0.782 0.941]
+Ehrenfest CPRF, number: [648. 809. 945.], percentage: [0.648 0.809 0.945]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22794422 0.24269619 0.27240351]
+Ehrenfest CPRF: [0.23569021 0.25169946 0.28250736]
+
+
+Results  at Mon Jan 27 19:47:33 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 0.75
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [682. 812. 946.], percentage: [0.682 0.812 0.946]
+Ehrenfest CPRF, number: [675. 810. 953.], percentage: [0.675 0.81  0.953]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22794422 0.24269619 0.27240351]
+Ehrenfest CPRF: [0.23569021 0.25169946 0.28250736]
+
+
+Results  at Mon Jan 27 20:09:02 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [734. 839. 961.], percentage: [0.734 0.839 0.961]
+Ehrenfest CPRF, number: [745. 866. 970.], percentage: [0.745 0.866 0.97 ]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30392004 0.32358897 0.36319801]
+Ehrenfest CPRF: [0.31424783 0.33559312 0.37666957]
+
+
+Results  at Mon Jan 27 20:43:58 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [748. 870. 965.], percentage: [0.748 0.87  0.965]
+Ehrenfest CPRF, number: [754. 866. 966.], percentage: [0.754 0.866 0.966]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30392004 0.32358897 0.36319801]
+Ehrenfest CPRF: [0.31424783 0.33559312 0.37666957]
+
+
+Results  at Mon Jan 27 21:04:58 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1.25
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [777. 871. 969.], percentage: [0.777 0.871 0.969]
+Ehrenfest CPRF, number: [790. 888. 973.], percentage: [0.79  0.888 0.973]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.37989685 0.40448282 0.4539937 ]
+Ehrenfest CPRF: [0.39280649 0.41948787 0.470833  ]
+
+
+Results  at Mon Jan 27 21:40:00 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1.25
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [793. 897. 969.], percentage: [0.793 0.897 0.969]
+Ehrenfest CPRF, number: [795. 888. 971.], percentage: [0.795 0.888 0.971]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.37989685 0.40448282 0.4539937 ]
+Ehrenfest CPRF: [0.39280649 0.41948787 0.470833  ]
+
+
+Results  at Mon Jan 27 22:02:39 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: uniform
+Error std: 0.75
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [679. 816. 954.], percentage: [0.679 0.816 0.954]
+Ehrenfest CPRF, number: [681. 825. 958.], percentage: [0.681 0.825 0.958]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22805189 0.24281083 0.27253219]
+Ehrenfest CPRF: [0.23580154 0.25181836 0.28264081]
+
+
+Results  at Mon Jan 27 22:38:06 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: uniform
+Error std: 0.75
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [697. 828. 957.], percentage: [0.697 0.828 0.957]
+Ehrenfest CPRF, number: [702. 826. 953.], percentage: [0.702 0.826 0.953]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22805189 0.24281083 0.27253219]
+Ehrenfest CPRF: [0.23580154 0.25181836 0.28264081]
+
+
+Results  at Mon Jan 27 22:59:17 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 0.75
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [617. 755. 911.], percentage: [0.617 0.755 0.911]
+Ehrenfest CPRF, number: [646. 778. 918.], percentage: [0.646 0.778 0.918]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22769647 0.24243241 0.27210745]
+Ehrenfest CPRF: [0.23543404 0.2514259  0.28220032]
+
+
+Results  at Mon Jan 27 23:34:17 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 0.75
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [636. 772. 923.], percentage: [0.636 0.772 0.923]
+Ehrenfest CPRF, number: [646. 786. 925.], percentage: [0.646 0.786 0.925]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22769647 0.24243241 0.27210745]
+Ehrenfest CPRF: [0.23543404 0.2514259  0.28220032]
+
+
+Results  at Mon Jan 27 23:55:17 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 0.75
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [606. 752. 924.], percentage: [0.606 0.752 0.924]
+Ehrenfest CPRF, number: [620. 767. 933.], percentage: [0.62  0.767 0.933]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22776358 0.24250386 0.27218765]
+Ehrenfest CPRF: [0.23550343 0.2515     0.28228349]
+
+
+Results  at Tue Jan 28 00:30:07 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 0.75
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [621. 760. 943.], percentage: [0.621 0.76  0.943]
+Ehrenfest CPRF, number: [620. 767. 931.], percentage: [0.62  0.767 0.931]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22776358 0.24250386 0.27218765]
+Ehrenfest CPRF: [0.23550343 0.2515     0.28228349]
+
+
+Results  at Tue Jan 28 00:51:13 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: uniform
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [750. 884. 970.], percentage: [0.75  0.884 0.97 ]
+Ehrenfest CPRF, number: [760. 876. 967.], percentage: [0.76  0.876 0.967]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30406321 0.32374141 0.36336911]
+Ehrenfest CPRF: [0.31439587 0.33575121 0.37684701]
+
+
+Results  at Tue Jan 28 01:26:01 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: uniform
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [773. 873. 975.], percentage: [0.773 0.873 0.975]
+Ehrenfest CPRF, number: [770. 885. 971.], percentage: [0.77  0.885 0.971]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30406321 0.32374141 0.36336911]
+Ehrenfest CPRF: [0.31439587 0.33575121 0.37684701]
+
+
+Results  at Tue Jan 28 01:47:00 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [699. 821. 935.], percentage: [0.699 0.821 0.935]
+Ehrenfest CPRF, number: [710. 825. 944.], percentage: [0.71  0.825 0.944]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30358989 0.32323745 0.36280347]
+Ehrenfest CPRF: [0.31390646 0.33522856 0.37626039]
+
+
+Results  at Tue Jan 28 02:21:47 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [722. 816. 941.], percentage: [0.722 0.816 0.941]
+Ehrenfest CPRF, number: [724. 824. 942.], percentage: [0.724 0.824 0.942]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30358989 0.32323745 0.36280347]
+Ehrenfest CPRF: [0.31390646 0.33522856 0.37626039]
+
+
+Results  at Tue Jan 28 02:42:47 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [689. 815. 952.], percentage: [0.689 0.815 0.952]
+Ehrenfest CPRF, number: [711. 822. 954.], percentage: [0.711 0.822 0.954]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30367921 0.32333256 0.36291022]
+Ehrenfest CPRF: [0.31399882 0.33532719 0.37637109]
+
+
+Results  at Tue Jan 28 03:17:39 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [707. 830. 953.], percentage: [0.707 0.83  0.953]
+Ehrenfest CPRF, number: [701. 831. 952.], percentage: [0.701 0.831 0.952]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30367921 0.32333256 0.36291022]
+Ehrenfest CPRF: [0.31399882 0.33532719 0.37637109]
+
+
+Results  at Tue Jan 28 03:38:42 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: uniform
+Error std: 1.25
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [789. 910. 975.], percentage: [0.789 0.91  0.975]
+Ehrenfest CPRF, number: [804. 894. 975.], percentage: [0.804 0.894 0.975]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.38007551 0.40467304 0.45420721]
+Ehrenfest CPRF: [0.39299122 0.41968515 0.47105443]
+
+
+Results  at Tue Jan 28 04:13:35 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: uniform
+Error std: 1.25
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [803. 908. 978.], percentage: [0.803 0.908 0.978]
+Ehrenfest CPRF, number: [804. 908. 979.], percentage: [0.804 0.908 0.979]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.38007551 0.40467304 0.45420721]
+Ehrenfest CPRF: [0.39299122 0.41968515 0.47105443]
+
+
+Results  at Tue Jan 28 04:34:37 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 1.25
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [735. 841. 945.], percentage: [0.735 0.841 0.945]
+Ehrenfest CPRF, number: [752. 848. 950.], percentage: [0.752 0.848 0.95 ]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.37948429 0.40404356 0.45350067]
+Ehrenfest CPRF: [0.39237991 0.41903231 0.47032168]
+
+
+Results  at Tue Jan 28 05:09:30 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 4 degrees of freedom
+Error std: 1.25
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [749. 838. 951.], percentage: [0.749 0.838 0.951]
+Ehrenfest CPRF, number: [756. 854. 956.], percentage: [0.756 0.854 0.956]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.37948429 0.40404356 0.45350067]
+Ehrenfest CPRF: [0.39237991 0.41903231 0.47032168]
+
+
+Results  at Tue Jan 28 05:30:30 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 1.25
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [738. 842. 956.], percentage: [0.738 0.842 0.956]
+Ehrenfest CPRF, number: [740. 858. 961.], percentage: [0.74  0.858 0.961]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.37959583 0.40416231 0.45363397]
+Ehrenfest CPRF: [0.39249524 0.41915548 0.47045992]
+
+
+Results  at Tue Jan 28 06:05:23 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: t-Distribution with 6 degrees of freedom
+Error std: 1.25
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [748. 859. 957.], percentage: [0.748 0.859 0.957]
+Ehrenfest CPRF, number: [753. 865. 965.], percentage: [0.753 0.865 0.965]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.37959583 0.40416231 0.45363397]
+Ehrenfest CPRF: [0.39249524 0.41915548 0.47045992]
+
+======================================================================================
+Next table
+=====================================================================================
+
+Results  at Tue Jan 28 09:51:40 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [676. 778. 916.], percentage: [0.676 0.778 0.916]
+Ehrenfest CPRF, number: [668. 781. 909.], percentage: [0.668 0.781 0.909]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.85931137 0.91492383 1.02691545]
+Ehrenfest CPRF: [0.88851245 0.94886465 1.06500527]
+
+
+Results  at Tue Jan 28 10:20:04 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 500
+k=5
+r=375.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [759. 852. 954.], percentage: [0.759 0.852 0.954]
+Ehrenfest CPRF, number: [770. 856. 946.], percentage: [0.77  0.856 0.946]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.60816429 0.64752315 0.72678348]
+Ehrenfest CPRF: [0.6288309  0.67154424 0.75374096]
+
+
+Results  at Tue Jan 28 10:50:56 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 1000
+k=5
+r=750.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [802. 878. 963.], percentage: [0.802 0.878 0.963]
+Ehrenfest CPRF, number: [805. 889. 964.], percentage: [0.805 0.889 0.964]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.4300588  0.45789112 0.51393946]
+Ehrenfest CPRF: [0.44467304 0.47487745 0.53300224]
+
+
+Results  at Mon Jan 27 20:43:58 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [748. 870. 965.], percentage: [0.748 0.87  0.965]
+Ehrenfest CPRF, number: [754. 866. 966.], percentage: [0.754 0.866 0.966]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30392004 0.32358897 0.36319801]
+Ehrenfest CPRF: [0.31424783 0.33559312 0.37666957]
+
+
+Results  at Tue Jan 28 11:56:10 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 4000
+k=5
+r=3000.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [658. 797. 947.], percentage: [0.658 0.797 0.947]
+Ehrenfest CPRF, number: [674. 809. 946.], percentage: [0.674 0.809 0.946]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.21489386 0.22880124 0.25680775]
+Ehrenfest CPRF: [0.22219637 0.23728906 0.26633313]
+
+
+Results  at Tue Jan 28 15:05:57 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 8000
+k=5
+r=6000.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [450. 640. 873.], percentage: [0.45  0.64  0.873]
+Ehrenfest CPRF, number: [463. 639. 877.], percentage: [0.463 0.639 0.877]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.15197627 0.16181179 0.18161843]
+Ehrenfest CPRF: [0.15714072 0.1678145  0.18835492]
+
+
+Results  at Tue Jan 28 19:22:00 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 250
+k=6
+r=187.5
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [599. 712. 877.], percentage: [0.599 0.712 0.877]
+Ehrenfest CPRF, number: [627. 733. 897.], percentage: [0.627 0.733 0.897]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [1.28007368 1.35061883 1.49543394]
+Ehrenfest CPRF: [1.33327216 1.40820134 1.56534969]
+
+
+Results  at Tue Jan 28 21:50:12 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 500
+k=6
+r=375.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [611. 756. 901.], percentage: [0.611 0.756 0.901]
+Ehrenfest CPRF, number: [629. 759. 903.], percentage: [0.629 0.759 0.903]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.90595229 0.95587952 1.05837017]
+Ehrenfest CPRF: [0.94360268 0.99663265 1.10785196]
+
+
+Results  at Tue Jan 28 23:46:48 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 1000
+k=6
+r=750.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [778. 867. 962.], percentage: [0.778 0.867 0.962]
+Ehrenfest CPRF, number: [760. 870. 955.], percentage: [0.76  0.87  0.955]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.64063733 0.675943   0.74841849]
+Ehrenfest CPRF: [0.66726153 0.70476127 0.78340916]
+
+
+Results  at Wed Jan 29 01:43:50 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=6
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [786. 881. 967.], percentage: [0.786 0.881 0.967]
+Ehrenfest CPRF, number: [806. 887. 969.], percentage: [0.806 0.887 0.969]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.45273466 0.47768497 0.52890297]
+Ehrenfest CPRF: [0.47154982 0.49805067 0.55363068]
+
+
+Results  at Wed Jan 29 04:07:39 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 4000
+k=6
+r=3000.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [814. 898. 967.], percentage: [0.814 0.898 0.967]
+Ehrenfest CPRF, number: [813. 897. 968.], percentage: [0.813 0.897 0.968]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.32011676 0.33775846 0.37397336]
+Ehrenfest CPRF: [0.33342046 0.35215852 0.39145767]
+
+
+Results  at Wed Jan 29 08:18:29 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 8000
+k=6
+r=6000.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [763. 856. 967.], percentage: [0.763 0.856 0.967]
+Ehrenfest CPRF, number: [756. 870. 966.], percentage: [0.756 0.87  0.966]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22639154 0.23886802 0.26447976]
+Ehrenfest CPRF: [0.23580012 0.24905196 0.27684494]
+
+===================================================================================
+Histogram table:
+
+
+
+Results  at Thu Jan 30 10:22:20 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 250
+n_h=5
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [678. 788. 910.], percentage: [0.678 0.788 0.91 ]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.90482556 0.9744775  1.11664598]
+
+
+Results  at Thu Jan 30 10:22:43 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 500
+n_h=5
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [721. 823. 939.], percentage: [0.721 0.823 0.939]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.64037625 0.68967133 0.79028887]
+
+
+Results  at Thu Jan 30 10:24:18 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 1000
+n_h=5
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [737. 854. 948.], percentage: [0.737 0.854 0.948]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.45283724 0.48769589 0.55884682]
+
+
+Results  at Thu Jan 30 10:31:25 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+n_h=5
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [660. 793. 933.], percentage: [0.66  0.793 0.933]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.32001743 0.34465183 0.39493378]
+
+
+Results  at Thu Jan 30 11:04:49 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 4000
+n_h=5
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [492. 664. 898.], percentage: [0.492 0.664 0.898]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.2262759  0.24369423 0.27924728]
+
+
+Results  at Thu Jan 30 13:34:32 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 8000
+n_h=5
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [228. 400. 773.], percentage: [0.228 0.4   0.773]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.16002583 0.17234434 0.19748801]
+
+
+Results  at Thu Jan 30 14:33:06 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 250
+n_h=7
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [324. 405. 562.], percentage: [0.324 0.405 0.562]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [1.3578776  1.4502873  1.63976815]
+
+
+Results  at Thu Jan 30 14:33:31 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 500
+n_h=7
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [643. 744. 870.], percentage: [0.643 0.744 0.87 ]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.96101681 1.02641834 1.16052047]
+
+
+Results  at Thu Jan 30 14:35:10 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 1000
+n_h=7
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [708. 827. 946.], percentage: [0.708 0.827 0.946]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.67957579 0.725824   0.82065331]
+
+
+Results  at Thu Jan 30 14:42:35 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+n_h=7
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [733. 852. 959.], percentage: [0.733 0.852 0.959]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.48025224 0.51293557 0.57995089]
+
+
+Results  at Thu Jan 30 15:17:05 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 4000
+n_h=7
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [711. 839. 953.], percentage: [0.711 0.839 0.953]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.33957371 0.36268324 0.41006801]
+
+
+Results  at Thu Jan 30 17:48:09 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 8000
+n_h=7
+Error distribution: norm
+Error std: 1
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Histogram, number: [605. 750. 940.], percentage: [0.605 0.75  0.94 ]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Histogram: [0.2401518  0.25649521 0.29000645]
+
+===============================================================================
+
+
+Results  at Fri Jan 31 11:11:29 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [676. 778. 916.], percentage: [0.676 0.778 0.916]
+Ehrenfest CPRF, number: [668. 781. 909.], percentage: [0.668 0.781 0.909]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.85931137 0.91492383 1.02691545]
+Ehrenfest CPRF: [0.88851245 0.94886465 1.06500527]
+
+
+
+Different covariance matrix correction and quantiles:
+
+Results  at Fri Jan 31 12:00:07 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 250
+k=5
+r=187.5
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [675. 777. 916.], percentage: [0.675 0.777 0.916]
+Ehrenfest CPRF, number: [668. 781. 909.], percentage: [0.668 0.781 0.909]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.8589815  0.91457261 1.02652125]
+Ehrenfest CPRF: [0.88851245 0.94886465 1.06500527]
+
+==============================================================================================
+
+
+Results  at Fri Jan 31 17:12:25 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 0.5
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [416. 616. 849.], percentage: [0.416 0.616 0.849]
+Ehrenfest CPRF, number: [416. 598. 868.], percentage: [0.416 0.598 0.868]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.15197087 0.16180604 0.18161198]
+Ehrenfest CPRF: [0.15713514 0.16780854 0.18834824]
+
+
+Results  at Mon Jan 27 19:11:46 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 0.75
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [656. 782. 941.], percentage: [0.656 0.782 0.941]
+Ehrenfest CPRF, number: [648. 809. 945.], percentage: [0.648 0.809 0.945]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.22794422 0.24269619 0.27240351]
+Ehrenfest CPRF: [0.23569021 0.25169946 0.28250736]
+
+
+Results  at Mon Jan 27 20:09:02 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [734. 839. 961.], percentage: [0.734 0.839 0.961]
+Ehrenfest CPRF, number: [745. 866. 970.], percentage: [0.745 0.866 0.97 ]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.30392004 0.32358897 0.36319801]
+Ehrenfest CPRF: [0.31424783 0.33559312 0.37666957]
+
+
+Results  at Mon Jan 27 21:04:58 2025
+for Random Seed = 0
+and Regression model with:
+p = 2 and m = m_p2_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1.25
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [777. 871. 969.], percentage: [0.777 0.871 0.969]
+Ehrenfest CPRF, number: [790. 888. 973.], percentage: [0.79  0.888 0.973]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.37989685 0.40448282 0.4539937 ]
+Ehrenfest CPRF: [0.39280649 0.41948787 0.470833  ]
+
+
+
+Results  at Sat Feb  1 05:35:11 2025
+for Random Seed = 12345
+and Regression model with:
+p = 4 and m = m_p4_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 0.5
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [ 2.  6. 41.], percentage: [0.002 0.006 0.041]
+Ehrenfest CPRF, number: [ 1.  4. 46.], percentage: [0.001 0.004 0.046]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.12418579 0.13124392 0.14573721]
+Ehrenfest CPRF: [0.12614492 0.13348832 0.14854292]
+
+
+Results  at Sat Feb  1 11:29:19 2025
+for Random Seed = 12345
+and Regression model with:
+p = 4 and m = m_p4_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 0.75
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [ 65. 116. 359.], percentage: [0.065 0.116 0.359]
+Ehrenfest CPRF, number: [ 56. 132. 382.], percentage: [0.056 0.132 0.382]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.18626599 0.19685248 0.21859092]
+Ehrenfest CPRF: [0.1892045  0.20021884 0.2227992 ]
+
+
+Results  at Sat Feb  1 20:07:07 2025
+for Random Seed = 12345
+and Regression model with:
+p = 4 and m = m_p4_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [188. 321. 607.], percentage: [0.188 0.321 0.607]
+Ehrenfest CPRF, number: [202. 345. 635.], percentage: [0.202 0.345 0.635]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.24834832 0.26246327 0.29144712]
+Ehrenfest CPRF: [0.25226622 0.26695163 0.29705802]
+
+
+Results  at Sun Feb  2 04:30:30 2025
+for Random Seed = 12345
+and Regression model with:
+p = 4 and m = m_p4_01
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1.25
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [320. 469. 747.], percentage: [0.32  0.469 0.747]
+Ehrenfest CPRF, number: [338. 502. 742.], percentage: [0.338 0.502 0.742]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.31043149 0.32807496 0.36430432]
+Ehrenfest CPRF: [0.31532881 0.33368534 0.37131785]
+
+========================================================================================
+
+
+Illustration that the asymptotic distribution works. Results with m set to zero:
+
+Results  at Mon Feb  3 03:35:50 2025
+for Random Seed = 12345
+and Regression model with:
+p = 4 and m set to zero.
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 100
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [811. 883. 952.], percentage: [0.811 0.883 0.952]
+Ehrenfest CPRF, number: [807. 881. 956.], percentage: [0.807 0.881 0.956]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.24833778 0.26245213 0.29143475]
+Ehrenfest CPRF: [0.25225552 0.2669403  0.29704541]
+
+
+Results  at Mon Feb  3 12:10:44 2025
+for Random Seed = 12345
+and Regression model with:
+p = 4 and m set to zero.
+Parameters:
+Sample size: 2000
+k=5
+r=1500.0
+Error distribution: norm
+Error std: 1
+Number of trees: 50
+Number of CBS: 1000
+
+Empirical Coverage for confidence bands with theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF, number: [778. 862. 941.], percentage: [0.778 0.862 0.941]
+Ehrenfest CPRF, number: [778. 865. 948.], percentage: [0.778 0.865 0.948]
+
+Average confidence band radius for theoretical coverage [0.9  0.95 0.99]:
+Uniform CPRF: [0.24833778 0.26245213 0.29143475]
+Ehrenfest CPRF: [0.25225552 0.2669403  0.29704541]
